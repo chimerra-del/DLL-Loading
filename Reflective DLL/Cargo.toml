@@ -1,0 +1,3 @@
+[dependencies]
+reflective_pe_dll_loader = "0.3"
+sysinfo = "0.30"
